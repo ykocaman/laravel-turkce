@@ -16,7 +16,7 @@ Laravel 5.5 için son kullanıcı arayüzüne Türkçe dil desteği sağlar.
 1- Composer ile paketi indirin.
 
 ``` bash
-$ composer require-dev ykocaman/laravel-turkce
+$ composer require --dev ykocaman/laravel-turkce
 ```
 
 2- Dil paketini kurun.
